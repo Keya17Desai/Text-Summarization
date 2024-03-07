@@ -1,2 +1,2 @@
 # Text-Summarization
-Text Summarization - A streamlit application to get the summary of paragraphs
+Text Summarization - A streamlit application to get the summary of paragraphs using NLP
